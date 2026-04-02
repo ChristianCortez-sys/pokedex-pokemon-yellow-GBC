@@ -1,0 +1,5 @@
+{
+  "name": "YellowDex",
+  "description": "A nostalgic Pokedex for Pokemon Yellow with a custom Express API and React frontend.",
+  "requestFramePermissions": []
+}

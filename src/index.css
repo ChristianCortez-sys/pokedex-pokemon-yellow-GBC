@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gbc-bg: #f8f8f8;
+  --color-gbc-yellow: #f8d030;
+  --color-gbc-red: #ff0000;
+  --color-gbc-blue: #0000ff;
+  --color-gbc-black: #000000;
+  --color-gbc-dark-grey: #555555;
+  
+  --font-pixel: "Press Start 2P", system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-gbc-bg text-gbc-black;
+  }
+}
