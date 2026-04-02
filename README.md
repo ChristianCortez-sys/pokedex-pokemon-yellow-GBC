@@ -2,9 +2,7 @@
 
 A retro-styled Pokedex application built with React, Tailwind CSS, and Express, inspired by the classic Pokemon Yellow Game Boy aesthetic.
 
-## 🚀 Local Setup (MacBook Air M1)
-
-Since you are using a MacBook Air M1, you have native support for Node.js. Follow these steps to get the app running:
+## 🚀 Local Setup
 
 ### 1. Prerequisites
 Ensure you have **Node.js** (v18 or higher) installed. You can check this by running:
