@@ -5,8 +5,11 @@ import path from "path";
 // Simple Gen 1 Pokemon Data (Subset for Pokemon Yellow)
 const pokemonData = [
   { id: 1, name: "Bulbasaur", types: ["Grass", "Poison"], description: "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON." },
+  { id: 2, name: "Ivysaur", types: ["Grass", "Poison"], description: "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."},
   { id: 4, name: "Charmander", types: ["Fire"], description: "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail." },
+  { id: 5, name: "Charmeleon", types: ["Fire"], description: "Tough fights could excite this Poké. When excited, it may blow out bluish-white flames."},
   { id: 7, name: "Squirtle", types: ["Water"], description: "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth." },
+  { id: 8, name: "Wartortle", types: ["Water"], description: "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit."},
   { id: 25, name: "Pikachu", types: ["Electric"], description: "It keeps its tail raised to monitor its surroundings. If you pull its tail, it will bite you." },
   { id: 39, name: "Jigglypuff", types: ["Normal"], description: "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep." },
   { id: 52, name: "Meowth", types: ["Normal"], description: "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change." },
